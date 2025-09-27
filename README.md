@@ -21,5 +21,5 @@ Upload a `.wav` file, type your text, and hear it spoken in the cloned voice —
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/voice-cloner.git
+git clone https://github.com/Saanvidasa/voice-cloner.git
 cd voice-cloner
